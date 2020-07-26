@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angualar-tour-of-heroes"
+    }
+  },
+  "defaultProject": "angualar-tour-of-heroes",
+  "cli": {
+    "analytics": "2eed2b2f-4992-4302-8d40-8652a43fb1e7"
+  }
 }
